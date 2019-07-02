@@ -3,8 +3,6 @@ import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
 import {FullComponent} from './layouts/full/full.component';
-import {AppSidebarComponent} from './layouts/full/sidebar/sidebar.component';
-import {AppHeaderComponent} from './layouts/full/header/header.component';
 import {AppRoutes} from './app.routing';
 import {RouterModule} from '@angular/router';
 import {MatMenuModule} from '@angular/material';
